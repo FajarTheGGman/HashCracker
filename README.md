@@ -1,5 +1,5 @@
 # HashCracker
-#Just a simple program to decrypt hash 
+#Just a simple program to decrypt hash with nodejs language
 
 ![alt text](https://github.com/FajarTheGGman/HashCracker/blob/master/.image/Capture.PNG)
 
